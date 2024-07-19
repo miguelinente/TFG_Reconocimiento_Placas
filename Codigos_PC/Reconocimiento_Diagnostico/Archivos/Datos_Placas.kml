@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Coordenadas</name>
+<description>Coordenadas desde el archivo de texto con pines de colores en función del estado de las placas</description>
+<Style id="redPin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+</Style>
+<Style id="greenPin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+</Style>
+</Document>
+</kml>

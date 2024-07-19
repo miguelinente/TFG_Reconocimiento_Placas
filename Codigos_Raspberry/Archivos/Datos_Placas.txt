@@ -1,0 +1,8 @@
+Placa1,43.52281597817496,-5.628678939002668,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa1_18_16_17_07_2024.jpg
+Placa2,43.52279661890937,-5.628679415839308,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa2_18_16_17_07_2024.jpg
+Placa3,43.52276965779678,-5.628681323043063,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa3_18_16_17_07_2024.jpg
+Placa4,43.52275253466478,-5.628681809088906,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa4_18_16_17_07_2024.jpg
+Placa5,43.52282140882055,-5.628775942996026,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa5_18_16_17_07_2024.jpg
+Placa6,43.52280258899841,-5.628776473229523,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa6_18_16_17_07_2024.jpg
+Placa7,43.52277165545394,-5.628775304243335,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa7_18_16_17_07_2024.jpg
+Placa8,43.52275548544885,-5.628774920769723,/home/raspberry/Desktop/TFG/Codigos_Raspberry/Archivos/fotos/Placa8_18_16_17_07_2024.jpg
